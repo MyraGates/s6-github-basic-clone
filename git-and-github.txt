@@ -1,0 +1,3 @@
+ GitHub is a platform for hosting Git repositories.
+ You can collaborate with others using pull requests.
+ GitHub Actions can automate workflows.
