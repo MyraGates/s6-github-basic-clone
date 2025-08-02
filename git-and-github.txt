@@ -1,0 +1,3 @@
+ Git tracks changes to your files.
+ Git uses commits to save snapshots.
+ Branches in Git let you work on separate versions.
