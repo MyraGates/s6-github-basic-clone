@@ -1,3 +1,6 @@
  Git tracks changes to your files.
  Git uses commits to save snapshots.
  Branches in Git let you work on separate versions.
+ GitHub is a platform for hosting Git repositories.
+ You can collaborate with others using pull requests.
+ GitHub Actions can automate workflows.
